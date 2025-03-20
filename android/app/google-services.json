@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "165645995176",
+    "firebase_url": "https://taxibaxi-68b85-default-rtdb.firebaseio.com",
+    "project_id": "taxibaxi-68b85",
+    "storage_bucket": "taxibaxi-68b85.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165645995176:android:41db4a34d705fe3554069d",
+        "android_client_info": {
+          "package_name": "com.taxi.baxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUGHDkmkhq-bupvRgfwkOZG4UtKm0y58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165645995176:android:186eac285ca4b66754069d",
+        "android_client_info": {
+          "package_name": "com.taxi.captain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUGHDkmkhq-bupvRgfwkOZG4UtKm0y58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165645995176:android:f6941a7215c58f3654069d",
+        "android_client_info": {
+          "package_name": "com.taxi.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUGHDkmkhq-bupvRgfwkOZG4UtKm0y58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165645995176:android:d6bfc28c721a693654069d",
+        "android_client_info": {
+          "package_name": "com.taxi.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzUGHDkmkhq-bupvRgfwkOZG4UtKm0y58"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
